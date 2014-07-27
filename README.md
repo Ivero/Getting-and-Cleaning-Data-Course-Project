@@ -3,13 +3,13 @@ Getting-and-Cleaning-Data-Course-Project
 
 Repo for the submission of the final project for the Johns Hopkins Getting and Cleaning Data course
 
-***Overview***
+##Overview##
 
 This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent analysis. A full description of the data used in this project can be found at The UCI Machine Learning Repository
 
 The source data for this project can be found here.
 
-#Making Modifications to This Script#
+###Making Modifications to This Script###
 
 Once you have obtained and unzipped the source files, you will need to make one modification to the R file before you can process the data. Note that on line 7 of run_analysis.R, you will set the path of the working directory to relect the location of the source files in your own directory.
 
